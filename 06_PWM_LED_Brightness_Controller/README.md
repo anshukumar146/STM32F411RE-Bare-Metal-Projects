@@ -369,6 +369,13 @@ Download and install from [st.com/en/development-tools/stm32cubeide.html](https:
 
 ## 🖼️ Screenshots
 
+## Schematics
+
+<img width="912" height="432" alt="Screenshot 2026-08-27 223624" src="https://github.com/user-attachments/assets/9aae0485-9620-47f8-88ff-cd02d719fc45" />
+
+
+---
+
 ## Output Screenshot
 
 <img width="322" height="400" alt="06_PWM_LED_Brightness_Controller" src="https://github.com/user-attachments/assets/b9a35718-16b2-4c5f-a95e-917bb8f25dd9" />
