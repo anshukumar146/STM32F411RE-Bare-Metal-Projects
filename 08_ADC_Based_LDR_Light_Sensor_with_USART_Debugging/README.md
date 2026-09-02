@@ -286,11 +286,23 @@ Flow Control: None
 
 ## 📸 Screenshots
 
-*(Add serial terminal captures or wiring photos here as they become available.)*
+<img width="398" height="393" alt="Screenshot 2026-09-02 215309" src="https://github.com/user-attachments/assets/511405fc-994b-4f1e-93ad-352feb4fc34a" />
+
 
 ## 🎥 Demo Video
 
-*(Add a link or embedded video of the LDR reading changing and the LED switching here.)*
+https://github.com/user-attachments/assets/6428f80f-c4e7-48e7-9b10-f26c00df3030
+
+https://github.com/user-attachments/assets/55de2647-4c7f-4838-920c-86e17f37c925
+
+
+
+
+
+
+For more videos you can visit:
+https://drive.google.com/drive/folders/1IVRC5D5QQhNMA0SS7Htaz0T8VuOdyBzu?usp=drive_link
+
 
 ---
 
