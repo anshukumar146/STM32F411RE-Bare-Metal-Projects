@@ -295,12 +295,40 @@ flowchart LR
 
 ## 📸 Screenshots
 
-*(Add LCD photos, logic analyzer captures, or Serial Monitor output here as they become available.)*
+<img width="500" height="900" alt="IMG_20260828_233534" src="https://github.com/user-attachments/assets/0555472f-1020-438d-bc3f-dfa3f2ea71d1" />
+
+<img width="500" height="900" alt="IMG_20260828_233544" src="https://github.com/user-attachments/assets/88e847d7-dea7-41be-9b63-07682106a114" />
+<img width="500" height="900" alt="IMG_20260828_233537" src="https://github.com/user-attachments/assets/71b67a9c-aea4-4d4a-b332-3c1ac3889267" />
+
+<img width="182" height="258" alt="Screenshot 2026-08-27 202151" src="https://github.com/user-attachments/assets/9d37ed79-7ffb-4108-8016-f5b01a5cc6a5" />
+<img width="182" height="282" alt="Screenshot 2026-08-27 202917" src="https://github.com/user-attachments/assets/bad3a092-9b58-4504-9cb3-18e6ee651613" />
+
+<img width="900" height="606" alt="Screenshot 2026-08-27 203038" src="https://github.com/user-attachments/assets/aa331fc0-0f49-4d55-a7e8-aaea72173d5a" />
+
+<img width="1042" height="712" alt="Screenshot 2026-08-29 012808" src="https://github.com/user-attachments/assets/99f301d1-b422-4872-8f0d-f99b3679ed78" />
+
+
 
 ## 🎥 Demo Video
 
-*(Add a link or embedded video of the LCD updating and the Arduino responding here.)*
 
+
+
+
+https://github.com/user-attachments/assets/e8eeca84-c747-4772-8dd3-a19785a6e217
+
+
+
+https://github.com/user-attachments/assets/222fdc82-5f11-42c1-9540-8e8813631728
+
+
+
+https://github.com/user-attachments/assets/0441765f-1631-429e-83df-2d2206f69314
+
+
+
+---
+For more video and picture related to the project visit: https://drive.google.com/drive/folders/1Rp_FsnL-KTtCG4zOjCzzdXiQAO8WQBSM?usp=sharing
 ---
 
 ## ✅ Results
