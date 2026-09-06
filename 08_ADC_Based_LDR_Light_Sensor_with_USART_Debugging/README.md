@@ -283,7 +283,11 @@ Flow Control: None
 4. Cover or expose the LDR to change the reading, and watch the external LED switch on/off based on the 2000 threshold.
 
 ---
+## 🖼️ Schematic diagram
 
+
+
+---
 ## 📸 Screenshots
 
 <img width="398" height="393" alt="Screenshot 2026-09-02 215309" src="https://github.com/user-attachments/assets/511405fc-994b-4f1e-93ad-352feb4fc34a" />
