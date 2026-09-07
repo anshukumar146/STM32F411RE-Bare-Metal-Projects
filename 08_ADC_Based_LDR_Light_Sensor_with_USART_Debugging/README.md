@@ -285,12 +285,16 @@ Flow Control: None
 ---
 ## 🖼️ Schematic diagram
 
+<img width="657" height="665" alt="Screenshot 2026-09-07 223905" src="https://github.com/user-attachments/assets/05d87929-8688-41d7-8147-7309d56b20f2" />
 
 
 ---
 ## 📸 Screenshots
 
 <img width="398" height="393" alt="Screenshot 2026-09-02 215309" src="https://github.com/user-attachments/assets/511405fc-994b-4f1e-93ad-352feb4fc34a" />
+
+<img width="1140" height="495" alt="Screenshot 2026-09-07 224214" src="https://github.com/user-attachments/assets/c70acbb0-a6be-40c7-93f5-8f63a27ecb36" />
+
 
 
 ## 🎥 Demo Video
