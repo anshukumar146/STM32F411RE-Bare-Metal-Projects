@@ -292,7 +292,15 @@ flowchart LR
 4. Open the Arduino IDE's Serial Monitor at 9600 baud — it should print `ADC = xxxx` (or `Checksum Error` on a bad packet), and the Arduino's LED on pin 11 should track the same ADC < 2000 threshold as the LCD.
 
 ---
+## 📸 Schematic
 
+<img width="1028" height="566" alt="Screenshot 2026-09-08 232947" src="https://github.com/user-attachments/assets/bf6f4bd7-2325-4e63-9aad-8e2ade948116" />
+
+PDF:-[SCHEMATIC.pdf](https://github.com/user-attachments/files/31969244/SCHEMATIC.pdf)
+
+
+
+---
 ## 📸 Screenshots
 
 <img width="500" height="900" alt="IMG_20260828_233534" src="https://github.com/user-attachments/assets/0555472f-1020-438d-bc3f-dfa3f2ea71d1" />
