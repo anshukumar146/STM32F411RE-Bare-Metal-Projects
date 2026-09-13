@@ -1,6 +1,6 @@
 # 📟 UART Communication with Arduino Uno and 16×2 LCD (STM32 Bare-Metal)
 
-**Difficulty Level:** Advanced
+**Difficulty Level:** Advanced 
 
 A bare-metal STM32 project that reads an LDR through ADC1, displays the reading and a derived LED status on a 16×2 character LCD (4-bit mode), and transmits the ADC value as a framed binary packet over USART1 to an Arduino Uno, which verifies the packet with a checksum, prints it to the Serial Monitor, and drives its own LED. All STM32-side peripherals (GPIO, ADC1, USART1, and the LCD bit-banged interface) are configured through direct register access, with no HAL calls; the Arduino side is a standard `.ino` sketch using `Serial`/`digitalWrite`.
 
