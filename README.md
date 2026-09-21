@@ -11,3 +11,6 @@ sorry but I am not well today so I'll try to upload within two days.
 
 working on new project.
 9/9/26 think of making something.
+
+
+exam are coming.
