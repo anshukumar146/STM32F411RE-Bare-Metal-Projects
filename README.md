@@ -30,3 +30,7 @@ all exams are finished today.
 
 
 new project code will be uploaded by tomorrow or day after tomorrow.
+
+
+
+Two more function coding as well as hardware testing are left.
