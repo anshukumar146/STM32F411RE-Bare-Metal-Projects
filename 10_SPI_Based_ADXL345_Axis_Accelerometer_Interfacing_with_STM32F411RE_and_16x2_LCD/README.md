@@ -303,13 +303,37 @@ Each value is six characters: sign, tens digit (a space if zero), ones digit, de
 
 ## Screenshots
 
-<!-- Add your screenshots here -->
+
+
+<img width="1600" height="900" alt="conn2" src="https://github.com/user-attachments/assets/0a021afc-5ad3-4f63-82c9-ae6a8747b93a" />
+
+
+<img width="1600" height="900" alt="conn1" src="https://github.com/user-attachments/assets/ecf18134-da32-4198-ba3e-3cd59c364046" />
+
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-21 at 7 40 19 AM" src="https://github.com/user-attachments/assets/da92e0ea-5d74-4bcf-941b-5f19591f5aa4" />
 
 ---
+## pulse view
 
+
+<img width="1332" height="573" alt="Screenshot 2026-10-18 105026" src="https://github.com/user-attachments/assets/898619df-1f81-4995-b700-5956358494d2" />
+<img width="1673" height="417" alt="Screenshot 2026-10-17 231842" src="https://github.com/user-attachments/assets/c912ef0c-7a4c-46ef-a555-18628c3bf224" />
+<img width="1718" height="453" alt="Screenshot 2026-10-17 232617" src="https://github.com/user-attachments/assets/a6f0da90-59ac-4bc5-b64a-70be5595a72c" />
+<img width="1521" height="527" alt="Screenshot 2026-10-18 104726" src="https://github.com/user-attachments/assets/03d53e4f-10c5-43a1-98fc-03c4b7186600" />
+<img width="1278" height="457" alt="Screenshot 2026-10-18 104901" src="https://github.com/user-attachments/assets/69f7f417-c058-454f-8e0f-afdabf25d6bb" />
+
+
+---
 ## Demo Video
 
-<!-- Add your demo video links here -->
+
+
+https://github.com/user-attachments/assets/9a1af649-e879-4702-920a-e36cef2dd26d
+
+
+
+
+
 
 ---
 
