@@ -49,3 +49,5 @@ i will connections and output video Tommorow.
 schematic for the project 10 will be uploaded tomorrow.
 
 I have NPTEL exam tomorrow.
+
+My mid semester result are out 125/150.
