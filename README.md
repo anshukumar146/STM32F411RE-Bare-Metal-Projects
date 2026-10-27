@@ -46,6 +46,9 @@ some improvement needed to be done in the code.
 i will connections and output video Tommorow.
 
 
+thinking of new project.
+
+
 schematic for the project 10 will be uploaded tomorrow.
 
 I have NPTEL exam tomorrow.
