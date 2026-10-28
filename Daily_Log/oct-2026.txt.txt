@@ -1,0 +1,27 @@
+I am moving all the previous log which was temporarily kept in main README file.
+
+STM32 Bare-Metal Learning Log
+This log records project progress, blockers, plans, exams, and milestones during my STM32F411RE bare-metal learning journey. Entries are preserved from my original notes and grouped by topic where exact dates were not provided.
+Project and Documentation Updates
+- 28 August 2026: Working on a project; planned to upload it the next day.
+- 30 August 2026: Planned to upload the project schematics the following day.
+- Working on schematics; planned to upload them the next day.
+- I was not feeling well and planned to upload within two days.
+- Working on a new project; thinking of what to build on 9 September 2026.
+- Planned to upload new project code by the next day or the day after.
+- Two function implementations and hardware testing remained.
+- Some laptop issues were occurring; the connections had been made.
+- Further improvements were needed in the code.
+- Planned to show the connections and output video the next day.
+- Thinking about a new project.
+- Planned to upload the schematic for Project 10 the next day.
+Exams and College
+- Exams were approaching.
+- Exams were two days away.
+- One day remained before an exam.
+- An exam paper was scheduled for Monday.
+- An exam was the next day.
+- All exams had finished that day.
+- Planned to take the NPTEL exam the next day.
+Results and Milestones
+- Mid-semester result: 125/150.
