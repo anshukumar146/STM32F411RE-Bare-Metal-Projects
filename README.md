@@ -39,14 +39,3 @@ Two more function coding as well as hardware testing are left.
 facing some issues on my laptop.
 made the connections.
 
-some improvement needed to be done in the code.
-
-
-
-i will connections and output video Tommorow.
-
-
-thinking of new project.
-
-
-
