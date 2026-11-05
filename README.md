@@ -27,7 +27,3 @@ tomorrow is exam.
 
 
 
-new project code will be uploaded by tomorrow or day after tomorrow.
-
-
-
