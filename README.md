@@ -21,9 +21,3 @@ exams are in 2 day
 one day to go.
 
 
-paper on Monday 
-
-tomorrow is exam.
-
-
-
