@@ -14,7 +14,3 @@ working on new project.
 
 
 exam are coming.
-
-
-exams are in 2 day
-
