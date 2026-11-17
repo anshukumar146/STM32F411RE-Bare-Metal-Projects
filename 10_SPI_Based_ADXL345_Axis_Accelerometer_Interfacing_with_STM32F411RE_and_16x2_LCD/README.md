@@ -299,10 +299,13 @@ Each value is six characters: sign, tens digit (a space if zero), ones digit, de
 
 
 <img width="530" height="383" alt="image" src="https://github.com/user-attachments/assets/e86ed9cf-2342-42c3-be42-482d3e0b88ae" />
+
 <img width="537" height="372" alt="Screenshot 2026-10-23 105340" src="https://github.com/user-attachments/assets/62f08973-ca58-484e-8dab-324c6a16a14a" />
+<img width="553" height="518" alt="Screenshot 2026-10-23 105453" src="https://github.com/user-attachments/assets/bce517dd-5a48-470e-8bea-9ca9c39789a6" />
 <img width="422" height="497" alt="image" src="https://github.com/user-attachments/assets/2dd30287-705f-4fd7-82f8-58d67f256319" />
 
-<img width="452" height="383" alt="image" src="https://github.com/user-attachments/assets/b81b7723-f436-4302-a749-d2c081d94b82" />
+
+
 
 ---
 
